@@ -9,6 +9,6 @@ $ npm start
 
 To start the client side:
 ```sh
-> cd client/src
-> npm run dev
+$ cd client/src
+$ npm run dev
 ```
